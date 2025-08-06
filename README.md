@@ -20,7 +20,7 @@ This repository contains the integrated gene and protein catalog (MiGPC) used in
 
 ## 🔗 Data Availability
 
-The full dataset, including genes, proteins, annotations, and metadata, is available at the following link:
+The full data, including genes, proteins, annotations, and metadata are available at the following link:
 
 👉 [Download MiGPC](https://drive.google.com/drive/folders/15cZhp7TAMhZbyVyKlpJZFjLoGA3vJ2gU?usp=drive_link)
 
