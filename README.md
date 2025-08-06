@@ -13,7 +13,7 @@ This repository contains the integrated gene and protein catalog (MiGPC) used in
 
 - `Gene_Catalog.fa` – Nucleotide sequences of predicted genes  
 - `Protein_Catalog.fa` – Amino acid sequences of predicted proteins  
-- `Enzybiotic_Catalog.tsv` – Functional annotation of the protein catalog  
+- `Enzybiotic_Catalog.tsv` – Functional annotation of the antimicrobial enzymes catalog  
 - `metadata.tsv` – Sample and metadata
 
 ---
