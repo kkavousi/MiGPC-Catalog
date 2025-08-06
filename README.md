@@ -27,7 +27,6 @@ The full dataset, including genes, proteins, annotations, and metadata, is avail
 👉 [Download MetaData file (XLSX)](./MiGPC_MetaData.xlsx)
 
 
-Please ensure the link remains active and publicly accessible throughout the review process.
 
 ---
 
