@@ -26,7 +26,7 @@ The full dataset, including genes, proteins, annotations, metadata, and the Plas
 
 👉 [Download MetaData file (XLSX)](./MiGPC_MetaData.xlsx)
 
-👉 [Download Plastic-cantaminated environments gene catalog file](https://drive.google.com/drive/folders/1diw2DSZeuhFSM04jBG66YXMubcqdS-Ul)
+👉 [Download Plastic-contaminated environments gene catalog](https://drive.google.com/drive/folders/1diw2DSZeuhFSM04jBG66YXMubcqdS-Ul)
 
 
 
