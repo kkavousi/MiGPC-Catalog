@@ -20,13 +20,13 @@ This repository contains the integrated gene and protein catalog (MiGPC) used in
 
 ## 🔗 Data Availability
 
-The full data, including genes, proteins, annotations, and metadata as well as Plastic cantaminated environments gene catalog that used in this study are available at the following links:
+The full dataset, including genes, proteins, annotations, metadata, and the Plastic-contaminated environments gene catalog used in this study, are available at the following links:
 
 👉 [Download MiGPC](https://drive.google.com/drive/folders/15cZhp7TAMhZbyVyKlpJZFjLoGA3vJ2gU?usp=drive_link)
 
 👉 [Download MetaData file (XLSX)](./MiGPC_MetaData.xlsx)
 
-👉 [Download Plastic-cantaminated environments gene catalog file](https://drive.google.com/file/d/1ejmYz13uXq6WBC1zqJo01zggQdNLlg1P/view?usp=drive_link)
+👉 [Download Plastic-cantaminated environments gene catalog file](https://drive.google.com/drive/folders/1diw2DSZeuhFSM04jBG66YXMubcqdS-Ul)
 
 
 
